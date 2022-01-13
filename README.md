@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on myself 😅
-- 🌱 I’m currently learning data-structure in C++
+- 🌱 I’m currently doing Bachelore's in Computer Science
 - 👯 I’m looking to collaborate on anything
 - 🤔 I’m looking for help with new languages in the industry
 - 💬 Ask me about anything, it will increase my knowledge.
